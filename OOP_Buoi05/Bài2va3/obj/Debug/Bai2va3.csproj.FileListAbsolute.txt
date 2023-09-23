@@ -1,0 +1,8 @@
+C:\Users\May1\Desktop\OOP_Buoi05\Bài2va3\bin\Debug\Bài2va3.exe.config
+C:\Users\May1\Desktop\OOP_Buoi05\Bài2va3\bin\Debug\Bài2va3.exe
+C:\Users\May1\Desktop\OOP_Buoi05\Bài2va3\bin\Debug\Bài2va3.pdb
+C:\Users\May1\Desktop\OOP_Buoi05\Bài2va3\obj\Debug\Bai2va3.csproj.AssemblyReference.cache
+C:\Users\May1\Desktop\OOP_Buoi05\Bài2va3\obj\Debug\Bai2va3.csproj.SuggestedBindingRedirects.cache
+C:\Users\May1\Desktop\OOP_Buoi05\Bài2va3\obj\Debug\Bai2va3.csproj.CoreCompileInputs.cache
+C:\Users\May1\Desktop\OOP_Buoi05\Bài2va3\obj\Debug\Bài2va3.exe
+C:\Users\May1\Desktop\OOP_Buoi05\Bài2va3\obj\Debug\Bài2va3.pdb
